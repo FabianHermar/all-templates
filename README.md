@@ -9,7 +9,7 @@
 
 <h3 align='center'>All projects were made from scratch and with a lot of ❤</h3>
 
-<br /><br /><br />
+<br /><br />
 
 ---
 
