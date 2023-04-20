@@ -37,8 +37,11 @@
 
 **Boxode Corporation is dedicated to create customized IT solutions and commercial products for small, medium and big companies. Founded in 2022 by Fabian Herrera.**
 
+---
 
 ### README Components 🖼
+
+
 ### Portfolio 2023 ✨
 ### Zur Birke 🥙
 ### Cinnamon Overoll 🥞
